@@ -29,3 +29,5 @@ def addComment(aCardId):
     comment = (json_response.get('display').get('entities').get('comment').get('text'))
     print ("This is added comment: " + comment)
     assert comment == vComment
+
+master 1 commit
