@@ -32,3 +32,7 @@ def addComment(aCardId):
 
 commit master 1
 commit master 2
+
+    
+remote commit 1
+remote commit 2
