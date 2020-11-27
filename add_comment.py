@@ -30,6 +30,3 @@ def addComment(aCardId):
     print ("This is added comment: " + comment)
     assert comment == vComment
 
-commit master 1
-commit master 2
-
