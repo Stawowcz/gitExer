@@ -31,3 +31,4 @@ def addComment(aCardId):
     assert comment == vComment
 
 master 1 commit
+master 2 commit
