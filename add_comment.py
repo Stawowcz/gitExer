@@ -37,3 +37,5 @@ commit2
 commit 3 master
 commit 4 master
 commit 5 master
+commit1 feature
+commit2 feature
