@@ -50,3 +50,7 @@ commit1
 16
 17
 reset 
+
+
+
+commit remote
